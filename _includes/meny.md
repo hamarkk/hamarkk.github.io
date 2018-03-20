@@ -1,0 +1,2 @@
+- [Oppgaver](oppgaver.md)
+- [Informasjon](info.md)
